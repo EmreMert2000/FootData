@@ -4,7 +4,7 @@ import HomeScreen from '../screens/HomeScreen';
 
 export default function Index() {
   return (
-    <View style={styles.container}>
+    <View style={styles.container}> //Mobile App Test Commit 
       <HomeScreen />
     </View>
   );
