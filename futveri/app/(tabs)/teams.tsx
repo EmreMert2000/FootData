@@ -1,11 +1,12 @@
 import React from 'react';
-import { View, StyleSheet } from 'react-native';
-import HomeScreen from '../screens/HomeScreen';
+import { StyleSheet, View } from 'react-native';
 
-export default function Index() {
+import TeamSeasonsScreen from '../screens/TeamSeasonScreen';
+
+export default function Teams() {
   return (
     <View style={styles.container}>
-      <HomeScreen />
+      <TeamSeasonsScreen />
     </View>
   );
 }
