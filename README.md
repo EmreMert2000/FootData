@@ -6,9 +6,13 @@ Futbol verileri, sadece takımların performanslarını değerlendirmede değil,
 
 Futveri, futbolseverlerin yalnızca maçı izlemekle kalmayıp, aynı zamanda futbol dünyasına dair derinlemesine analizler yapabilmelerini sağlar. Hem futbol kulüpleri hem de futbolseverler için en önemli bilgi kaynağı olmayı hedefliyoruz. 🎯
 
-### **Futveri'nin Geleceği 🔮**
+---
 
-Gelişen teknoloji ve veri analitiği ile Futveri, futbol dünyasında devrim yaratacak bir araç haline gelecek. 🌍 Futveri, kulüplerin daha doğru ve hızlı kararlar alabilmesine yardımcı olacak, futbolseverlerin ise daha derinlemesine futbol bilgisine sahip olmalarını sağlayacak. 🏆
+## 🚀 Yeni Uygulamamız Yolda!
+
+📅 **15 Ağustos 2025** tarihinde yepyeni bir uygulamayla karşınızda olacağız:  
+🎮 İlk adım **Fantasy Premier League (FPL)** odaklı analiz ve kadro öneri uygulamamız olacak.  
+Futbolseverler için daha stratejik kararlar, istatistik temelli öneriler ve oyun içinde öne geçme şansı sunacağız!
 
 ---
 
@@ -20,6 +24,14 @@ Football data plays a crucial role not only in evaluating team performance but a
 
 Futveri allows football fans to not only watch the match but also perform in-depth analysis of the football world. Our goal is to become the most important source of information for both football clubs and fans. 🎯
 
-### **The Future of Futveri 🔮**
+---
 
-With the development of technology and data analytics, Futveri will become a revolutionary tool in the football world. 🌍 It will help clubs make more accurate and faster decisions while enabling football fans to gain deeper insights into the sport. 🏆
+## 🚀 New App Coming Soon!
+
+📅 On **August 15, 2025**, we’re launching our brand new application:  
+🎮 Our first step will be an **FPL-focused app**, delivering data-driven squad suggestions, deep insights, and strategic tools for Fantasy Premier League managers!
+
+---
+
+Stay tuned and follow the journey! 🌟  
+
