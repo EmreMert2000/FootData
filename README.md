@@ -29,6 +29,7 @@ With **FutData**, clubs strengthen their strategies, while fans see the game fro
 - 🎯 Data-driven decision support  
 
 📖 Learn more in our Medium post 👉 [Read Here](https://medium.com/@emremert.developer/futveri-projesi-ab793e6ac464)  
+App Link(FutFPL)https://play.google.com/store/apps/details?id=com.futfpl.app&hl=tr
 
 ---
 
